@@ -1,0 +1,22 @@
+{
+  "name": "ckeditor5-custom-nextjs",
+  "version": "1.0.0",
+  "description": "CKEditor 5 Custom + Next JS",
+  "author": "Nurul Aisyah <aisynurul99@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurulaisyah61/ckeditor5-custom-nextjs"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
