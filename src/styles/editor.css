@@ -1,0 +1,9 @@
+body .ck-editor__editable {
+  min-height: 250px;
+}
+@media (max-width: 425px) {
+  body .ck.ck-toolbar-dropdown .ck.ck-toolbar .ck.ck-toolbar__items {
+    flex-wrap: wrap;
+    min-width: 70vw;
+  }  
+}
